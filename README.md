@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js,React.js language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
--     E-mail: sivaneshm.21msc@kongu.edu
+-     E-mail: sivaflip7@gmail.com
 -     Phone: 8838100846
 <!---
 sivanesh-murugasamy/sivanesh-murugasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
