@@ -1,16 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 ### Hi there 👋
-* 👂 My name is Sivanesh 
+* 👂 My name is Sivanesh
+  
 * 👩 Pronouns: ...
+  
 * 🔭 I’m currently working on ...
+  
 * 🌱 I’m currently learning MERN,Java
+  
 * 🤝 I’m looking to collaborate on ...
+  
 * 🤔 I’m looking for help with ...
+  
 * 💬 Ask me about ...
+  
 * 📫 How to reach me: sivaflip7@gmail.com
+  
 * ❤️ I love ...
+  
 * ⚡ Fun fact: ...
 <!---
 sivanesh-murugasamy/sivanesh-murugasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
