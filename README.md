@@ -1,6 +1,6 @@
 <img src="Welcome to my Profile.png">
 
-<p align="right"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsOXVtNGJ2dWtlcmVtMDhyMnRudjRxemFxbGd3cGxqczZ5Y3Q5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" alt="Vibe Coding gif" /> </p>
+<p align="right"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN2enBlcTJiNzBuaWhibzYxa2R1NWM5bGFrcmY2dmozenlxam4zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Vibe Coding gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
 
 ### Hi there 👋
