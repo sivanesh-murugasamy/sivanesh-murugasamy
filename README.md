@@ -1,4 +1,5 @@
 <img src="Welcome to my Profile.png">
+<p align="right"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>" alt="Sivanesh-Murugasamy" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
 
