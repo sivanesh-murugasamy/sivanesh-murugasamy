@@ -1,5 +1,6 @@
 <img src="Welcome to my Profile.png">
-![Profile Views](https://komarev.com/ghpvc/?username=sivanesh-murugasamy&color=blue)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
 
 ### Hi there 👋
 * 👂 My name is Sivanesh
@@ -22,9 +23,9 @@
   
 * ⚡ Fun fact: ...
 
-  <hr>
-  <div>
-  <h3>My Skillset</h3>
+<hr>
+<div>
+<h3 align="center">My Skillset</h3>
     
 ## 💻 Frontend Development
 <p align="left">
