@@ -1,8 +1,8 @@
-<div style="display:flex;">
-<img style="width: 100px; height: 100px;" src="Welcome to my Profile.png">
 
-<p> <img style="width: 100px; height: 100px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZhejhoaDd3MTc3YXNwZTBibjd3cnB0aHp1NXkzcWY5Mm92bzFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Vibe Coding gif" /> </p>
-</div>
+<img style="width: 200px; height: 150px; float:left;" src="Welcome to my Profile.png">
+
+<p> <img style="width: 100px; height: 100px; float:left;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZhejhoaDd3MTc3YXNwZTBibjd3cnB0aHp1NXkzcWY5Mm92bzFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Vibe Coding gif" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
 
 ### Hi there 👋
