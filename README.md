@@ -1,4 +1,4 @@
-<div class="container">
+<div style="display:flex;">
 <img src="Welcome to my Profile.png">
 
 <p> <img style="width: 200px; height: 150px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZhejhoaDd3MTc3YXNwZTBibjd3cnB0aHp1NXkzcWY5Mm92bzFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Vibe Coding gif" /> </p>
