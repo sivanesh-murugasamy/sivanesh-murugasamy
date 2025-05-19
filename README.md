@@ -1,6 +1,6 @@
 <img src="Welcome to my Profile.png">
 
-<p align="right"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgxY2Q5MWN6dWZzYThnZmNnamNxZjVxZXk4aXh3bzRrMDg0YmNoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" alt="Vibe Coding gif" /> </p>
+<p align="right"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsOXVtNGJ2dWtlcmVtMDhyMnRudjRxemFxbGd3cGxqczZ5Y3Q5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" alt="Vibe Coding gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
 
 ### Hi there 👋
@@ -24,13 +24,9 @@
   
 * ⚡ Fun fact: ...
 
-<h2>Developed this game by using AI,You wanna play it:https://creative-brioche-204b8c.netlify.app/</h2>
-
-<h2>Read my blog on medium : https://medium.com/@sivaflip7</h2>
-
 <hr>
 <div>
-<h3 align="left">My Skillset</h3>
+<h3 align="left">My Skillsets</h3>
     
 ## 💻 Frontend Development
 <p align="left">
@@ -68,6 +64,9 @@
 </p>
 </div>
 
+<h2>Developed this game by using AI,You wanna play it:https://creative-brioche-204b8c.netlify.app/</h2>
+
+<h2>Read my blog on medium : https://medium.com/@sivaflip7</h2>
 <!---
 sivanesh-murugasamy/sivanesh-murugasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
