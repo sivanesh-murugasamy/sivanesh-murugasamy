@@ -1,5 +1,5 @@
 
-<img style="width: 500px; height: 450px; float:left;" src="Welcome to my Profile.png">
+<img src="Welcome to my Profile.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanesh-murugasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Sivanesh-Murugasamy" /> </p>
