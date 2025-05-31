@@ -7,23 +7,18 @@
 ### Hi there 👋
 * 👂 My name is Sivanesh
   
-* 👩 Pronouns: ...
+* 😎 Pronouns: He/Him
   
-* 🔭 I’m currently working on ...
+* 🔭 I’m currently working on Full Stack Project
   
 * 🌱 I’m currently learning MERN,Java
   
-* 🤝 I’m looking to collaborate on ...
+* 🤝 I’m looking to collaborate on Company
   
-* 🤔 I’m looking for help with ...
-  
-* 💬 Ask me about ...
+* 💬 Ask me about Tech Related Quaries
   
 * 📫 How to reach me: sivaflip7@gmail.com
   
-* ❤️ I love ...
-  
-* ⚡ Fun fact: ...
 
 <hr>
 <div>
@@ -65,9 +60,9 @@
 </p>
 </div>
 
-<h2>Developed this game by using AI,You wanna play it:https://creative-brioche-204b8c.netlify.app/</h2>
+<h4>Developed this game by using AI,You wanna play it:https://creative-brioche-204b8c.netlify.app/</h4>
 
-<h2>Read my blog on medium : https://medium.com/@sivaflip7</h2>
+<h4>Read my blog on medium : https://medium.com/@sivaflip7</h4>
 <!---
 sivanesh-murugasamy/sivanesh-murugasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
