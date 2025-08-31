@@ -61,7 +61,7 @@
 </p>
 </div>
 
-<h4>Developed this game by using AI,You wanna play it:https://creative-brioche-204b8c.netlify.app/</h4>
+<h4>Developed this game by using AI,You wanna play it : https://creative-brioche-204b8c.netlify.app/</h4>
 
 <h4>Read my blog on medium : https://medium.com/@sivaflip7</h4>
 <!---
