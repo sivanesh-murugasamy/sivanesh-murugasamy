@@ -12,9 +12,7 @@
   
 * 🔭 I’m currently working on Full Stack Project
   
-* 🌱 I’m currently learning MERN,Java
-  
-* 🤝 I’m looking to collaborate on Company
+* 🌱 I’m currently learning AI
   
 * 💬 Ask me about Tech Related Quaries
   
