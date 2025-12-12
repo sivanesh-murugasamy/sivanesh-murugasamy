@@ -7,7 +7,7 @@
 <h2 align="center">Hi there 👋, I'm <span style="color:#0e75b6">Sivanesh</span></h2>
 
 <p align="center">
-🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Exploring AI & Emerging Tech | Resume: https://drive.google.com/file/d/1N9JHn5eRMEREl0X6U5nF2ZGVnoYVprm4/view?usp=sharing
+🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Exploring AI & Emerging Tech 
 </p>
 
 ---
@@ -15,6 +15,7 @@
 ### 👨‍💻 About Me
 
 * 👂 My name is **Sivanesh**
+* 🤟 Resume : https://drive.google.com/file/d/1N9JHn5eRMEREl0X6U5nF2ZGVnoYVprm4/view?usp=sharing
 * 😎 Pronouns: **He/Him**
 * 🔭 Currently working on **Full Stack Projects**
 * 🌱 Learning more about **AI & ML**
